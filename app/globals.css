@@ -1,0 +1,24 @@
+:root {
+  --bg: #0b0b0c;
+  --accent: #9de2a8;
+  --text: #e9f0ea;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  background: #0b0b0c;
+  color: #e9f0ea;
+}
+
+button {
+  font-family: inherit;
+}
+
